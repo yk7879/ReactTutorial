@@ -11,6 +11,10 @@
 	"settings": { 
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
+	"extensions": [
+		"vscode-icons-team.vscode-icons",
+		"eamodio.gitlens"
+	],
 
 	// Add the IDs of extensions you want installed when the container is created.
 	// "extensions": [
